@@ -55,6 +55,11 @@ Ce projet est mené par:
 
 ### Diagrammes
 
+<p align="center"><img src="https://github.com/Cyril-CPIA2/RattrapagePOO/assets/150041008/e8f5603f-5edb-4a67-a4a7-3fdb50b5e144"></img></p>
+<p align="center"><img src="https://github.com/Cyril-CPIA2/RattrapagePOO/assets/150041008/490fb1fd-90a6-4ef5-b8ac-420841612352"></img></p>
+<p align="center"><img src="https://github.com/Cyril-CPIA2/RattrapagePOO/assets/150041008/85ba6418-b1a0-4f11-8243-780efec6067c"></img></p>
+
+
 
 
 
