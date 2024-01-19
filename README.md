@@ -33,7 +33,7 @@ Ce projet est mené par:
     -   L'_utlisateur_ pourra visualiser, créer, modifier et supprimer un membre du **traitement**
 -   **_RendezVous_**
     -   L'_utilisateur_ pourra visualiser, créer, modifier et supprimer des **rendez-vous**
--   [**_Statistiques_**](#Statistiques)
+-   **_Statistiques_**
     -   L'_utilisateur_ pourra effectuer des commandes qui interrogeront la base de données
         -   Calculer le nombre de chambres libres
         -   Calculer le nombre de patients
