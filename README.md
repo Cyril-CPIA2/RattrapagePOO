@@ -7,6 +7,8 @@
     -   [Contributeurs](#Contributeurs)
     -   [Fonctionnalités](#Fonctionnalités)
     -   [Les langages et outils que nous avons utilisé](#Langages-et-Outils-utilisés)
+    -   [Dictionnaire de données](#Dictionnaire-de-données).
+    -   [Diagrammes](#Diagrammes).
 
 
 ## Présentation
